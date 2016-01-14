@@ -1,0 +1,28 @@
+name: bmi
+favicon: null
+layout_spectrum: 0.15889008226804435
+typography_spectrum: 0.5076242708601058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6774044663179666
+  lightness: 0.2476424127817154
+  saturation: 0.22119134641252458
+  rhythmicContrast: 0.6207932117395103
+purpose: []
